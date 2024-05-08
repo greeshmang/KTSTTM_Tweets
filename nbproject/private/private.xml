@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/cec/STTM/src/tfidf/myner.java</file>
+            <file>file:/home/cec/STTM/src/models/LDA.java</file>
+            <file>file:/home/cec/STTM/src/tfidf/ner.java</file>
+            <file>file:/home/cec/STTM/src/tfidf/DocumentParser.java</file>
+            <file>file:/home/cec/STTM/src/eval/ClassificationEval.java</file>
+            <file>file:/home/cec/STTM/src/models/LDA_1.java</file>
+            <file>file:/home/cec/STTM/src/tfidf/cluster.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,11 @@
+-model	LDA
+-corpus	/home/cec/STTM/src/dataset/tweetnews.txt
+-ntopics	3
+-alpha	0.1
+-beta	0.01
+-niters	1000
+-twords	20
+-name	tweetnewsLDA
+-initiation time	20.0
+-one iteration time	4.885
+-total time	4905.0

@@ -1,0 +1,8 @@
+-model	LDA
+-corpus	/home/cec/STTM/src/dataset/newscorpus.txt
+-ntopics	3
+-alpha	0.1
+-beta	0.01
+-niters	100
+-twords	10
+-name	LDAinf

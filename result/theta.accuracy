@@ -1,0 +1,7 @@
+Golden-labels in: /home/cec/STTM/src/dataset/b1.txt
+
+Results for: /home/cec/STTM/result/tweet.theta
+	Accuracy: 85.8359957401491
+
+---
+Mean accuracy: 85.8359957401491, standard deviation: 0.0

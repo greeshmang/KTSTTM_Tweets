@@ -1,0 +1,11 @@
+Golden-labels in: /home/cec/STTM/src/dataset/testtweetLABEL.txt
+
+Results for: /home/cec/STTM/results/tweetnewsLDA.theta
+	Accuracy: 61.940298507462686
+Results for: /home/cec/STTM/results/LDAinfE.theta
+	Accuracy: 61.56716417910448
+Results for: /home/cec/STTM/results/LDAinf.theta
+	Accuracy: 61.940298507462686
+
+---
+Mean accuracy: 61.81592039800995, standard deviation: 0.17589720925038305
